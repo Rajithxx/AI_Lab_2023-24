@@ -31,7 +31,8 @@ move(N,X,Y,Z) :-
 
 
 
-### Output:![exp 6](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/edd0998c-89fd-4d8c-81a7-13e9cc2f2721)
+### Output:
+![exp 6](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/edd0998c-89fd-4d8c-81a7-13e9cc2f2721)
 
 
 
