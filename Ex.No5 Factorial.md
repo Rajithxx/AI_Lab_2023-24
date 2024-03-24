@@ -23,7 +23,8 @@ factorial(A,B) :-
 
 
 
-### Output:![exp 5](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/e233e425-fe91-4684-aa05-8918bce39b80)
+### Output:
+![exp 5](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/e233e425-fe91-4684-aa05-8918bce39b80)
 
 
 
