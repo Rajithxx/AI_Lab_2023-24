@@ -43,7 +43,8 @@ dfs(visited, graph, '5')
 
 
 
-### Output:![exp 2](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/91deefb1-658f-4e53-a99a-8413fc697ccd)
+### Output:
+![exp 2](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/91deefb1-658f-4e53-a99a-8413fc697ccd)
 
 
 
