@@ -56,7 +56,8 @@ symptom(raju,sore_throat).
 
 
 
-### Output:https://drive.google.com/file/d/1rquMy_dzP1gjIb2V97jF5aadzQEJ14Yx/view?usp=drivesdk
+### Output:![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/b158ea12-dea2-4c78-94f0-b2604fb27794)
+
 
 
 
