@@ -44,7 +44,8 @@ halfsubtractor(A,B,Diff,Bo):-
 
 
 
-### Output:![exp 7](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/1645f10e-081b-490b-8c04-fb4e4a30a378)
+### Output:
+![exp 7](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/1645f10e-081b-490b-8c04-fb4e4a30a378)
 
 
 
