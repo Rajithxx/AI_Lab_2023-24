@@ -34,7 +34,8 @@ food(peanuts).
 ~~~
 
 
-### Output:![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/97c0fd68-3081-4c19-a13d-98c6452325eb)
+### Output:
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/97c0fd68-3081-4c19-a13d-98c6452325eb)
 
 
 ### Task 2:
@@ -56,7 +57,8 @@ course(bk301,dept(havefun)).
 ~~~
 
 
-### Output:![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/10145381-bc51-4781-90dc-697dbd36a607)
+### Output:
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/10145381-bc51-4781-90dc-697dbd36a607)
 
 
 ### Task 3:
@@ -86,7 +88,8 @@ american(west).
 ~~~
 
 
-### Output:![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/0f50a8e7-478f-4cd3-95b8-98631f4752ab)
+### Output:
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/0f50a8e7-478f-4cd3-95b8-98631f4752ab)
 
 
 ### Result:
