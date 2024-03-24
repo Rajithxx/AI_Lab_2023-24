@@ -50,7 +50,9 @@ problem(blank_display).
 
 
 
-### Output:https://drive.google.com/file/d/1rwS0Ea2nSu9PoW5Vk-OkY8q9_0ryYRIr/view?usp=drivesdk
+### Output:
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/dd121f00-afd6-481b-bb2f-79af2f01d60f)
+
 
 
 
