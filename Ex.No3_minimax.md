@@ -48,7 +48,8 @@ print(minimax(0, 0, True, scores, treeDepth))
 
 
 
-### Output:![exp 3](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/6a1a4ab0-570f-45fb-b5aa-b0bfafc4b77f)
+### Output:
+![exp 3](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/6a1a4ab0-570f-45fb-b5aa-b0bfafc4b77f)
 
 
 
