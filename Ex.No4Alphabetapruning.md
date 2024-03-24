@@ -79,7 +79,8 @@ print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 
 
 
-### Output:![exp 4](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/1b67ffab-d22a-4f16-9bdb-fe9250a44e47)
+### Output:
+![exp 4](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/1b67ffab-d22a-4f16-9bdb-fe9250a44e47)
 
 
 
